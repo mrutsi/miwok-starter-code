@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/Language"
+          android:title="Change Language"
+        ></item>
+
+    <!--Thivenda-->
+    <item
+        android:id="@+id/Tshivenda"
+        android:title="Tshivenda"
+        ></item>
+
+
+    <!--XiTsonga-->
+    <item
+        android:id="@+id/XiTsonga"
+        android:title="XiTsonga"
+        ></item>
+
+    <!--Sipedi-->
+    <item
+        android:id="@+id/Sipedi"
+        android:title="Sepedi"
+        ></item>
+    <item
+        android:id="@+id/IsiZulu"
+        android:title="IsiZulu"/>
+    <item
+        android:id="@+id/English"
+        android:title="English"/>
+    <item
+        android:id="@+id/isiXhosa"
+        android:title="IsiXhosa"/>
+    <item
+        android:id="@+id/Afrikaans"
+        android:title="Afrikaans"/>
+    <item
+        android:id="@+id/Sesotho"
+        android:title="Sesotho"/>
+    <item
+        android:id="@+id/Setswana"
+        android:title="Setswana"/>
+    <item
+        android:id="@+id/SiSwati"
+        android:title="SiSwati"/>
+
+    <item
+        android:id="@+id/IsiNdebele"
+        android:title="IsiNdebele"/>
+
+</menu>
